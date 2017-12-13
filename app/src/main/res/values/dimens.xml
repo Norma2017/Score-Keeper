@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_size">24dp</dimen>
+    <dimen name="txt_size">14sp</dimen>
+    <dimen name="txt_score">50sp</dimen>
+    <dimen name="txt_mar">8dp</dimen>
+    <dimen name="scor_40">40sp</dimen>
+    <dimen name="scofo_30">30sp</dimen>
+    <dimen name="txt_pad4">4dp</dimen>
+    <dimen name="txtm_tp">16dp</dimen>
+    <dimen name="btn_mar">8dp</dimen>
+    <dimen name="btn_mrg">1dp</dimen>
+    <dimen name="txt_mrgt">1dp</dimen>
+    <dimen name="btn_mrgl">100dp</dimen>
+    <dimen name="btn_wdth">100dp</dimen>
+    <dimen name="txt_Sz">30sp</dimen>
+    <dimen name="btn_mrgbtt">36dp</dimen>
+    <dimen name="txt_pdd">4dp</dimen>
+    <dimen name="btnrst_mrg">2dp</dimen>
+    <dimen name="btnf_mrt">30dp</dimen>
+    <dimen name="btnrest_mar">32dp</dimen>
+    <dimen name="btnmar_bttm">16dp</dimen>
+</resources>
